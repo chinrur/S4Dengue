@@ -1,5 +1,5 @@
-# S4D Readme
-S4D - Syndromic Surveillance Software for Severe Dengue
+# S4Dengue Readme
+S4Dengue - Syndromic Surveillance Software for Severe Dengue
 ## 1. Installation
 ## 1.1 Minimum system requirements
 ● Microsoft Windows XP (64-bit) or later operating system  
@@ -17,5 +17,5 @@ Install S4D_prediction_installer.exe in the absolute path C:\
 2. Paste one model (*.s4d) into C:\S4D\Input folder.
 3. Open C:\S4D\App\S4D_prediction.xlsm (If the security alerts on the Message Bar, click Enable Macro or Install).
 4. Input your data and click "Start prediction".
-5. Input your real severe data in the "Severe" column, and click "Calculate metrics"
+5. Input your real severe data in the "Severe" column, and click "Calculate metrics."
 ```
